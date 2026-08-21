@@ -1,0 +1,14 @@
+project/node_modules/
+project/.env
+project/.env.*
+project/dist/
+.gemini/
+.git/
+*.log
+.env
+.env.*
+!.env.example
+# Python
+project/backend/venv/
+__pycache__/
+*.pyc
